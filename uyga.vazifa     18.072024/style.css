@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-image: url(./img/1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    text-align: justify;
+    text-align: center;
+    justify-content: center;
+    font-family: "Istok Web";
+    background-size: cover;
+}
+header h1{
+    text-shadow: 2px 2px rgb(8, 0, 255);
+}
+
+.section-1{
+    background-image: url(./img/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px blue;
+    
+
+
+}
+.av1{
+    
+    text-align: center;
+    width: 1050px;
+    font-family: 'Orbitron';
+
+}
+.av2{
+    color: yellow;
+    margin-top: 100px;
+    text-align: right;
+    
+}
+.section-2{
+    background-image: url(./img/3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 149, 0);
+}
+.hef img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+
+}
+.he1{
+    width: 1050px;
+    color: yellow;
+    
+
+}
+.he2{
+    margin-top: 100px;
+    text-align: right; 
+}
+
+.section-3{
+    background-image: url(./img/6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 149, 0);
+    text-shadow: 2px 2px 5px hsl(0, 0%, 70%);
+    
+    
+
+}
+.hef1 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+    font-family: "Roboto Flex";
+    
+
+}
+.he3{
+    width: 1050px;
+    color: rgb(252, 252, 250);
+    text-align: center;
+    font-family: "Roboto";
+    
+    
+
+}
+.he4{
+    margin-top: 100px;
+    text-align: right; 
+    font-family: "Karla";
+    font-family: "Roboto Flex";
+}
+
+
+
+
+.section-4{
+    background-image: url(./img/7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 149, 0);
+    text-shadow: 2px 2px 5px hsl(0, 0%, 70%);
+    
+
+}
+.hef2 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+
+}
+.he4{
+    text-align: center;
+    width: 1050px;
+    color: rgb(252, 252, 250);
+    font-family: "Kalam";
+    
+    
+
+}
+.he5{
+    margin-top: 100px;
+    text-align: right; 
+    font-family: "Kameron";
+}
+
+
+.section-5{
+    background-image: url(./img/9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 149, 0);
+    text-shadow: 2px 2px 5px hsl(0, 0%, 70%);
+    
+
+}
+.hef3 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+    font-family: "Bruno Ace SC";
+
+}
+.he5{
+    text-align: center;
+    width: 1050px;
+    color: rgb(252, 252, 250);
+    font-family: "Bruno Ace SC";
+    
+    
+
+}
+.he6{
+    margin-top: 100px;
+     
+}
+
+
+
+
+.section-6{
+    background-image: url(./img/11.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 149, 0);
+    text-shadow: 2px 2px 5px hsl(0, 0%, 70%);
+    
+
+}
+.hef4 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+    font-family: "Kavivanar";
+
+
+}
+.he6{
+    text-align: center;
+    width: 1050px;
+    color: rgb(252, 252, 250);
+    font-family: "Kameron";
+    
+    
+
+}
+.he7{
+    margin-top: 100px;
+     
+}
